@@ -5,7 +5,7 @@ terraform {
       version = ">= 5.20.0"
     }
   }
-
+# comentario
 
   backend "remote" {
     organization = "josecitonube"
