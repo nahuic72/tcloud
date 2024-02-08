@@ -4,7 +4,7 @@ variable "region" {
 
 variable "instance_count" {
   type = number
-  default = 1
+  default = 2
 }
 
 variable "instance_tags" {
