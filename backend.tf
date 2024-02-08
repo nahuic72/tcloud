@@ -11,7 +11,7 @@ terraform {
     organization = "josecitonube"
 
     workspaces {
-      name = "terragit"
+      name = "tcloud"
     }
   }
 
